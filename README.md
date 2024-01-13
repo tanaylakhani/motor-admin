@@ -1,4 +1,4 @@
-# Motor Admin Railway
+# Motor Admin Railway - Used for Stacks
 
 This example deploys a self-hosted version of [MotorAdmin](https://www.getmotoradmin.com/). Internally it uses a PostgreSQL database to store MotorAdmin configurations.
 
